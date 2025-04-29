@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
 opencv-python
-numpy==1.21.2
+numpy
 mediapipe
 keras
 tensorflow
