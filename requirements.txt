@@ -1,7 +1,6 @@
 
 
 
-opencv-python-headless
 protobuf
 mediapipe==0.10.21
 tensorflow==2.19.0
